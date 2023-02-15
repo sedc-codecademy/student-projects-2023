@@ -1,6 +1,6 @@
 # Student Projects 2022 🚀
 
-Hey there. This is the list of projects that students can work on during the 2022 Student Project Program. Take a look:
+Hey there. This is the list of projects that students can work on during the 2023 Student Project Program. Take a look:
 
 ## Projects 🏗
 
